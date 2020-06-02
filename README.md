@@ -1,2 +1,2 @@
-# commands
-Reository contains CLI commands with example
+# Commands
+Repository contains CLI commands with example
