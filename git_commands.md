@@ -45,4 +45,4 @@ But, if you know all these handy command and you will get confidence in dealing 
 
   ```git clone https://github.com/ucguy4u/commands```
 
-  ![git clone](../master/img/git_clone.jpg?raw=true "git clone")
+  ![git clone](../master/img/git_clone.png?raw=true "git clone")
