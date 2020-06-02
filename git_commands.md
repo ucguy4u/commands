@@ -46,7 +46,7 @@ But, if you know all these handy command and you will get confidence in dealing 
 
   ```git clone https://github.com/ucguy4u/commands```
 
-  ![git clone](../master/img/git_clone.png?raw=true"git clone")
+  ![git clone](../master/img/git_clone.png?raw=true "git clone")
 
 4. git help:
 
@@ -62,4 +62,4 @@ But, if you know all these handy command and you will get confidence in dealing 
 
    ```$git status```
 
-   ![git status](../master/img/git_staus.png?raw=true"git status")
+   ![git status](../master/img/git_staus.png?raw=true "git status")
