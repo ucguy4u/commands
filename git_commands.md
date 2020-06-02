@@ -39,10 +39,27 @@ But, if you know all these handy command and you will get confidence in dealing 
    $ ls -a
    ./  ../  .git/
 ```
+
 3. git clone
 
-  If you want to clone any repo from GitHub or bitbucket or remote location then use `git clone “repo location”`
+  If you want to clone any repo from GitHub or bitbucket or remote location then use ```git clone “repo location”```
 
   ```git clone https://github.com/ucguy4u/commands```
 
-  ![git clone](../master/img/git_clone.png?raw=true "git clone")
+  ![git clone](../master/img/git_clone.png?raw=true"git clone")
+
+4. git help:
+
+  If you don’t know much about any command then. use “git help <command-name>” it pulls syntax and all its options.
+
+  ```git help <command-name>```
+
+  ```$ git help init```
+
+5. git status:
+
+  To see the list of files are modified and added to the stage in the current directory. And also show the current branch name.
+
+   ```$git status```
+
+   ![git status](../master/img/git_staus.png?raw=true"git status")
